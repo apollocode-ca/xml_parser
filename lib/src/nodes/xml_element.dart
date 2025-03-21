@@ -3,7 +3,6 @@ import 'package:meta/meta.dart';
 import '../helpers/delimiters.dart';
 import '../helpers/formatters.dart';
 import '../xml_node.dart';
-import './xml_attribute.dart';
 
 /// A XML element.
 ///

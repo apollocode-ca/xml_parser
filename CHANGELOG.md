@@ -1,3 +1,12 @@
+## [1.1.0] - March 21, 2025
+
+* Migrated dependencies
+
+* Fixed null safe error
+
+* Fixed unused imports
+
+
 ## [1.0.0] - May 15, 2021
 
 * Migrated to null-safe code.
